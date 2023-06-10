@@ -1,0 +1,22 @@
+{
+    "content": {
+        "theme": "Toggle Theme",
+        "lang_en": "English",
+        "lang_vn": "Vietnamese",
+        "dark": "Dark Theme",
+        "light": "Light Theme",
+        "login": "Login",
+        "logout": "Logout",
+        "register": "Register",
+        "home": "Home",
+        "accomodation": "Accomodation",
+        "services": "Services",
+        "contact": "Contact",
+        "account": "Account",
+        "offer": "Offer",
+        "booking": "Book Now",
+        "home_title": "WELCOME TO HANOI HOTEL",
+        "home_desc": "Hanoi Hotel is the first international hotel in Hanoi. With 218 Deluxe Rooms and Suites overlooking the scenic Giang Vo Lake, the centrally-located hotel is the perfect place for business or leisure stay. Luxurious accommodations are elegantly furnished and equipped with a wide range of high-end amenities. Hanoi Hotel is renowned for its complete arena of evening entertainments and finest Chinese cuisine in the city. Your stay with us is guaranteed to be a pleasant and the most memorable one.",
+        "select_lang": "Select a language"
+    }
+}

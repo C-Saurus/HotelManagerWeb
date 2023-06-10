@@ -1,0 +1,39 @@
+.lang-option {
+    display: flex;
+    align-items: center;
+    margin: .625rem 0;
+    cursor: pointer;
+  }
+  
+  .change-lang-pop-over {
+    color: inherit;
+    padding: 0;
+    margin: 0;
+  }
+    
+  .popover-bodyy {
+    padding: 0 1rem !important;
+  }
+  
+  .lang-list {
+    padding: 0;
+    margin: 0;
+  }
+
+  
+  .lang-img {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+  }
+
+  .change-lang-btn {
+    margin-top: 10px;
+    width: fit-content;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .change-lange-icon {
+    padding-left: 2px;
+  }

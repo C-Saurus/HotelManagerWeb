@@ -1,0 +1,61 @@
+.contact_main{
+    background-image: url(https://hanoihotel.com.vn/wp-content/uploads/sites/97/2020/04/Hanoi-Hotel-1.jpg);
+    min-height: 60%;
+    padding: 100px 0;
+    margin-top: 168px;
+    background-attachment: scroll;
+    background-size: cover;
+    background-color: #ccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 100;
+}
+.contact_container{
+    max-width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact_infor{
+    background: #f8f8f8;
+    color: #555;
+    max-width: 940px;
+    padding: 60px 120px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.contact_content{
+    font-weight: 600;
+}
+.contact_title{
+    margin-bottom: 1em;
+    text-align: center;
+    font-weight: 400;
+    font-family: Montserrat,Arial,sans-serif;
+    font-style: normal;
+    line-height: 110%;
+    text-align: center;
+    position: relative;
+    text-transform: uppercase;
+    color: #222;
+    font-size: 2em;
+}
+
+.contact_title::after {
+    margin-right: auto;
+    margin-left: auto;
+    content: "";
+    height: 2px;
+    width: 200px;
+    display: block;
+    position: relative;
+    margin-top: .3em;
+    background: #8e7467;
+}
+
+.contact_desc{
+    line-height: 27px;
+    font-size: 20px;
+}

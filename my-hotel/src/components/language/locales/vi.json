@@ -1,0 +1,23 @@
+{
+    "content": {
+        "theme": "Chủ đề",
+        "lang_en": "Tiếng Anh",
+        "lang_vn": "Tiếng Việt",
+        "dark": "Chủ đề tối",
+        "light": " Chủ đề sáng",
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "register": "Đăng ký",
+        "home": "Trang chủ",
+        "accomodation": "Phòng ở",
+        "services": "Dịch vụ",
+        "contact": "Liên hệ",
+        "account": "Tài khoản",
+        "offer": "Ưu đãi",
+        "booking": "Đặt Ngay",
+        "home_title": "CHÀO MỪNG ĐẾN KHÁCH SẠN HÀ NỘI",
+        "home_desc": "Khách sạn Hà Nội là khách sạn quốc tế đầu tiên tại Hà Nội. Với 218 Phòng Deluxe và Suites nhìn ra Hồ Giảng Võ tuyệt đẹp, khách sạn tọa lạc tại vị trí trung tâm này là nơi lý tưởng cho các chuyến công tác hoặc nghỉ dưỡng. Các phòng nghỉ sang trọng được bài trí trang nhã và trang bị nhiều loại tiện nghi cao cấp. Khách sạn Hà Nội nổi tiếng với đầy đủ các hoạt động giải trí buổi tối và ẩm thực Trung Hoa ngon nhất trong thành phố. Kỳ nghỉ của bạn với chúng tôi đảm bảo sẽ là một kỳ nghỉ dễ chịu và đáng nhớ nhất.",
+        "select_lang": "Chọn ngôn ngữ"
+        
+    }
+}

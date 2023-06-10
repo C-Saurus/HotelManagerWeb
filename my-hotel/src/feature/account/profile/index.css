@@ -1,0 +1,14 @@
+.account_container {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.account_infor {
+    width: 90%;
+    padding: 40px 20px;
+    background-color: rgb(243, 240, 240);
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
